@@ -29,29 +29,6 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 
-<!-- METRICS
-<p align="center">
-  <img src="metrics.svg" alt="Statistiques GitHub et langages de Quentin">
-</p>
--->
-
-## Projets
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/QAliker/PulseScore">⚽ PulseScore</a></h3>
-      Scores de foot en temps réel : classements, compos, stats joueurs.<br>
-      <sub>NestJS · Next.js · Redis · Prisma · PostgreSQL · Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/QAliker/MoodFlow">🌊 MoodFlow</a></h3>
-      Suivi d'humeur avec prédictions et suggestions d'activités.<br>
-      <sub>Laravel · Nuxt · temps réel · Chart.js · Docker</sub>
-    </td>
-  </tr>
-</table>
-
 <p align="center">🎸 musicien · 🎮 jeux vidéo · ⚽ sport</p>
 
 <picture>
