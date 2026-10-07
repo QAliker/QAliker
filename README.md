@@ -29,11 +29,9 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 
-<!-- METRICS
 <p align="center">
   <img src="metrics.svg" alt="Statistiques GitHub et langages de Quentin">
 </p>
--->
 
 ## Projets
 
