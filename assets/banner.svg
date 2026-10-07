@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Quentin Aliker</title>
+  <desc id="d">Fullstack &amp; DevOps</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3a5c"/>
+      <stop offset=".6" stop-color="#3fb6ff"/>
+      <stop offset="1" stop-color="#7c4dff"/>
+    </linearGradient>
+    <clipPath id="typed"><rect class="typing" x="80" y="150" width="460" height="50"/></clipPath>
+  </defs>
+  <style>
+    .name { font: 700 64px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; }
+    .sub { font: 500 30px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #e6f6ff; }
+    .typing { animation: type 7s steps(21) infinite; }
+    .caret { animation: blink 1s step-end infinite; }
+    @keyframes type { 0% { width: 0; } 45%, 90% { width: 460px; } 100% { width: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .typing { animation: none; width: 460px; }
+      .caret { animation: none; }
+    }
+  </style>
+  <rect width="1200" height="260" rx="16" fill="url(#g)"/>
+  <text class="name" x="80" y="120">Quentin Aliker</text>
+  <g clip-path="url(#typed)">
+    <text class="sub" x="80" y="185">&gt; fullstack &amp; devops<tspan class="caret">_</tspan></text>
+  </g>
+</svg>
